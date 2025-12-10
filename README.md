@@ -17,8 +17,6 @@ Ele foi criado para:
 
 ---
 
-## 🧱 Conteúdo do Repositório
-
 ### **📚 Estudos e Conceitos**
 
 Materiais relacionados a fundamentos do C#, incluindo:
