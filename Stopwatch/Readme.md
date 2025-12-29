@@ -65,14 +65,14 @@ Projeto criado com foco em **lógica**, **controle de estado** e **boas prática
    ```bash
    git clone https://github.com/seu-usuario/stopwatch.git
    Entre na pasta:
-   ```
-
-````bash
-cd stopwatch
-Execute:
-
-```bash
-dotnet run
+   
+   bash
+    cd stopwatch
+    Execute:
+   
+   bash
+    dotnet run
+    ```
 
 🎯 Objetivo do Projeto
 Projeto desenvolvido para treino de lógica, loops, controle de estado, validação de input e boas práticas iniciais em C#, com foco em evolução para backend .NET.
@@ -80,4 +80,4 @@ Projeto desenvolvido para treino de lógica, loops, controle de estado, validaç
 👤 Autor
 Edson Santos
 Desenvolvedor Backend C# em evolução 🚀
-````
+
