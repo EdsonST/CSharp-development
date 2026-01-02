@@ -1,0 +1,14 @@
+C:\Users\edson.santos\UpdateFake\bin\Debug\net9.0\UpdateFake.exe
+C:\Users\edson.santos\UpdateFake\bin\Debug\net9.0\UpdateFake.deps.json
+C:\Users\edson.santos\UpdateFake\bin\Debug\net9.0\UpdateFake.runtimeconfig.json
+C:\Users\edson.santos\UpdateFake\bin\Debug\net9.0\UpdateFake.dll
+C:\Users\edson.santos\UpdateFake\bin\Debug\net9.0\UpdateFake.pdb
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\UpdateFake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\UpdateFake.AssemblyInfoInputs.cache
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\UpdateFake.AssemblyInfo.cs
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\UpdateFake.csproj.CoreCompileInputs.cache
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\UpdateFake.dll
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\refint\UpdateFake.dll
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\UpdateFake.pdb
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\UpdateFake.genruntimeconfig.cache
+C:\Users\edson.santos\UpdateFake\obj\Debug\net9.0\ref\UpdateFake.dll
