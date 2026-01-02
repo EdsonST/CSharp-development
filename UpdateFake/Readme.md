@@ -48,7 +48,9 @@ Starting download...
 Controls: P = Pause | R = Restart | E = Exit
 
 Downloading [████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 35%
+
 Installing [█████████████████░░░░░░░░░░░░░░░░] 75%
+
 Finalizing [███████████████████████████████████] 100%
 
 Update completed successfully.
@@ -88,11 +90,11 @@ if (progress > 70) status = "Installing";
 if (progress > 90) status = "Finalizing";
 Ajustar velocidade ou randomização:
 
-csharp
-Copiar código
 int speed = random.Next(1, 4);
 Thread.Sleep(totalTimeMs / total);
+```
 Licença
 Projeto open-source para estudo e diversão.
 Sinta-se à vontade para modificar e usar como quiser. 😄
-```
+
+
